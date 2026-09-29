@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: GAPer Guide
+## Notes: Smart Paladin & Hunter leveling helper for WoW: Forever beta
+## Author: GAPer
+## Version: 0.4.1
+## SavedVariables: GAPerGuideDB
+## IconTexture: Interface\Icons\INV_Misc_Note_01
+## AddonCompartmentFunc: GAPerGuide_OnCompartmentClick
+## AddonCompartmentFuncOnEnter: GAPerGuide_OnCompartmentEnter
+## AddonCompartmentFuncOnLeave: GAPerGuide_OnCompartmentLeave
+GAPer.lua

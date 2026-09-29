@@ -1,0 +1,7 @@
+{
+  "github_repo": "gaperforever/GAPer-Forever",
+  "addon_folder_name": "GAPerGuide",
+  "wow_path": "C:\\Program Files (x86)\\World of Warcraft\\_classic_beta_",
+  "release_asset_name": "GAPerGuide.zip",
+  "launch_wow_after_update": false
+}
